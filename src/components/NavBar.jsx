@@ -41,8 +41,8 @@ export function NavBar() {
         }}
       >
         <a href="" ><img src = "src\Inside.svg" height="30" width="30"></img></a>
-        <h3>Algorithm Visualizer</h3>
-        <a href="https://github.com/TusharSharmaIN/sorting-visualizer" target="_blank"><AiFillGithub style={{ fontSize: "1.5rem" }} /></a>
+        <h3>Algo Vizzz</h3>
+        <a href="https://github.com/shubhams167/algo-vizzz" target="_blank"><AiFillGithub style={{ fontSize: "1.5rem" }} /></a>
       </div>
       <AppBar position="static" color="default">
         <Tabs
