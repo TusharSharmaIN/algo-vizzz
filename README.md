@@ -2,6 +2,8 @@
     Algo Vizzz
 </h1>
 
+[https://algo-vizzz.herokuapp.com/](https://algo-vizzz.herokuapp.com/)
+
 ## Responsive visualizer built using React for popular algorithms
 
 <img src="cover.png" alt="cover" />
@@ -38,6 +40,6 @@ Features
 
 ### Run in your local
 
-- ```git clone https://github.com/shubhams167/algo-vizzz```
+- ```git clone https://github.com/TusharSharmaIN/algo-vizzz```
 - ```npm install``` (after navigating inside the directory)
-- ```npm run dev```
+- ```npm start```
