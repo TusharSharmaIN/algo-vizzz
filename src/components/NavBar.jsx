@@ -7,6 +7,7 @@ import { sortingAlgorithms } from "../common/config";
 import { useData } from "../common/store";
 import shallow from "zustand/shallow";
 import { AiFillGithub } from "react-icons/ai";
+import logo from "/src/Inside.svg"
 
 function a11yProps(index) {
   return {
@@ -40,9 +41,9 @@ export function NavBar() {
           alignItems: "center",
         }}
       >
-        <a href="" ><img src = "src\Inside.svg" height="30" width="30"></img></a>
+        <a href="" ><img src={logo} alt={"logo"} height="30" width="30"></img></a>
         <h3>Algo Vizzz</h3>
-        <a href="https://github.com/shubhams167/algo-vizzz" target="_blank"><AiFillGithub style={{ fontSize: "1.5rem" }} /></a>
+        <a href="https://github.com/TusharSharmaIN/algo-vizzz" target="_blank"><AiFillGithub style={{ fontSize: "1.5rem" }} /></a>
       </div>
       <AppBar position="static" color="default">
         <Tabs

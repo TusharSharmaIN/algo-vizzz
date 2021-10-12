@@ -1,7 +1,8 @@
 {
-  "name": "front-end-made-easy",
-  "version": "14.17.6",
+  "name": "algo-vizzz",
+  "version": "0.0.0",
   "scripts": {
+    "start": "vite build && vite preview",
     "dev": "vite",
     "build": "vite build",
     "serve": "vite preview"
