@@ -1,6 +1,6 @@
 {
   "name": "front-end-made-easy",
-  "version": "0.0.0",
+  "version": "14.17.6",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
