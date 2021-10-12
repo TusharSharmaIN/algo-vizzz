@@ -1,8 +1,9 @@
 {
   "name": "algo-vizzz",
   "version": "0.0.0",
+  "prestart": "npm install",
   "scripts": {
-    "start": "vite build && vite preview",
+    "start": "vite",
     "dev": "vite",
     "build": "vite build",
     "serve": "vite preview"
