@@ -2,7 +2,7 @@
     Algo Vizzz
 </h1>
 
-[https://algo-vizzz.herokuapp.com/](https://algo-vizzz.herokuapp.com/)
+[https://algo-vizzz-alpha.vercel.app/](https://algo-vizzz-alpha.vercel.app/)
 
 ## Responsive visualizer built using React for popular algorithms
 
